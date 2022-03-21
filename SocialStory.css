@@ -272,3 +272,14 @@
                 width: 100%;
             }
         }
+        @media(max-width: 992px){
+            #containtest{
+                display: block !important;
+            }
+            .user-avatar-hold{
+                max-height: 150px;
+            }
+        }
+        #containtest{
+            display: none;
+        }

@@ -2,7 +2,7 @@
         storyCoverSwiper();
 
         function storyCoverSwiper() {
-            var swiperStoryCover = new Swiper(".mySwiper", {
+            var swiperStoryCover = new Swiper(".mySwiperSldIG", {
                 slidesPerView: 6,
                 spaceBetween: 20,
                 slidesPerGroup: 1,
