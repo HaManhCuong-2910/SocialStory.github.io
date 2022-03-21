@@ -47,23 +47,8 @@
             width: 100px;
         }
 
-        .swiper-slide .user-avatar:before {
-            display: block;
-            border-radius: 100%;
-            content: "";
-            width: 108%;
-            height: 108%;
-            position: absolute;
-            z-index: -1;
-            left: -4%;
-            top: -4%;
-            background-color: #fbda61;
-            background-image: linear-gradient(45deg, #fbda61 0%, #ff5acd 100%);
-        }
-
         .swiper-slide .user-avatar img {
-            max-width: 100%;   
-            border-radius: 50%;         
+            max-width: 100%;           
             height: 100%;
         }
 
