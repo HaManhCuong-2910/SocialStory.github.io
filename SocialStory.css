@@ -44,7 +44,6 @@
             position: relative;
             margin-bottom: 0.5em;
             border-radius: 50%;
-            aspect-ratio: 1/1;
             width: 100px;
         }
 
@@ -65,8 +64,6 @@
         .swiper-slide .user-avatar img {
             max-width: 100%;   
             border-radius: 50%;         
-            aspect-ratio: 1/1;
-            object-fit: cover;
             height: 100%;
         }
 
