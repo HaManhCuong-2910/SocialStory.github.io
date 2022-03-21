@@ -279,6 +279,9 @@
             .user-avatar-hold{
                 max-height: 150px;
             }
+            .swiper-slide .user-avatar{
+                width: 100px !important;
+            }
         }
         #containtest{
             display: none;
